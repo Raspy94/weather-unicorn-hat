@@ -1,5 +1,5 @@
-# weather-unicorn-hat
-weather conditions scrolling on unicorn hat/phat
+# weather-unicorn-phat/hat
+weather conditions scrolling on unicorn phat/hat
 
 mytemp.py will pull the weather conditions from the API darksky 
 https://darksky.net/dev/docs
@@ -10,6 +10,6 @@ The data will be saved on a file txt (temp.txt).
 text.py reads the text file and displays on the unicorn phat/hat the text.
 
 
-Re
-
-https://github.com/miquelbeltran/unicorn-phat
+REQUIREMENTS
+Unicorn Hat lib: https://github.com/pimoroni/unicorn-hat 
+Dark Sky API key
